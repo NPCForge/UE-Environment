@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "eip",
+			"Path": "..\\Source\\eip.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "eipEditor",
+			"Path": "..\\Source\\eipEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

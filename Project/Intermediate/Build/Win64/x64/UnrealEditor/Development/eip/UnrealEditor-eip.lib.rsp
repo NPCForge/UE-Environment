@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-eip.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\hfont\Perforce\Ashef_UE_environment_workspace\Intermediate\Build\Win64\x64\eipEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\hfont\Perforce\Ashef_UE_environment_workspace\Intermediate\Build\Win64\x64\UnrealEditor\Development\eip\eip.init.gen.cpp.obj"
+"C:\Users\hfont\Perforce\Ashef_UE_environment_workspace\Intermediate\Build\Win64\x64\UnrealEditor\Development\eip\eipCharacter.gen.cpp.obj"
+"C:\Users\hfont\Perforce\Ashef_UE_environment_workspace\Intermediate\Build\Win64\x64\UnrealEditor\Development\eip\eipGameMode.gen.cpp.obj"
+"C:\Users\hfont\Perforce\Ashef_UE_environment_workspace\Intermediate\Build\Win64\x64\UnrealEditor\Development\eip\eip.cpp.obj"
+"C:\Users\hfont\Perforce\Ashef_UE_environment_workspace\Intermediate\Build\Win64\x64\UnrealEditor\Development\eip\eipCharacter.cpp.obj"
+"C:\Users\hfont\Perforce\Ashef_UE_environment_workspace\Intermediate\Build\Win64\x64\UnrealEditor\Development\eip\eipGameMode.cpp.obj"
+"C:\Users\hfont\Perforce\Ashef_UE_environment_workspace\Intermediate\Build\Win64\x64\UnrealEditor\Development\eip\Default.rc2.res"
+/OUT:"C:\Users\hfont\Perforce\Ashef_UE_environment_workspace\Intermediate\Build\Win64\x64\UnrealEditor\Development\eip\UnrealEditor-eip.lib"

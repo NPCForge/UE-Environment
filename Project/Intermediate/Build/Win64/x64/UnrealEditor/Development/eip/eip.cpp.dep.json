@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\hfont\\perforce\\ashef_ue_environment_workspace\\source\\eip\\eip.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\hfont\\perforce\\ashef_ue_environment_workspace\\intermediate\\build\\win64\\x64\\eipeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\hfont\\perforce\\ashef_ue_environment_workspace\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\eip\\definitions.eip.h",
+            "c:\\users\\hfont\\perforce\\ashef_ue_environment_workspace\\source\\eip\\eip.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
