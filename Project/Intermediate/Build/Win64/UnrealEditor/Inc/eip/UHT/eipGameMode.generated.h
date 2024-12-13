@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define EIP_eipGameMode_generated_h
 
-#define FID_Ashef_UE_environment_workspace_Source_eip_eipGameMode_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Project_Source_eip_eipGameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAeipGameMode(); \
 	friend struct Z_Construct_UClass_AeipGameMode_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(AeipGameMode)
 
 
-#define FID_Ashef_UE_environment_workspace_Source_eip_eipGameMode_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Project_Source_eip_eipGameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	AeipGameMode(AeipGameMode&&); \
@@ -35,12 +35,12 @@ public: \
 	EIP_API virtual ~AeipGameMode();
 
 
-#define FID_Ashef_UE_environment_workspace_Source_eip_eipGameMode_h_9_PROLOG
-#define FID_Ashef_UE_environment_workspace_Source_eip_eipGameMode_h_12_GENERATED_BODY \
+#define FID_Project_Source_eip_eipGameMode_h_9_PROLOG
+#define FID_Project_Source_eip_eipGameMode_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Ashef_UE_environment_workspace_Source_eip_eipGameMode_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Ashef_UE_environment_workspace_Source_eip_eipGameMode_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Project_Source_eip_eipGameMode_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Project_Source_eip_eipGameMode_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> EIP_API UClass* StaticClass<class AeipGameMode>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Ashef_UE_environment_workspace_Source_eip_eipGameMode_h
+#define CURRENT_FILE_ID FID_Project_Source_eip_eipGameMode_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
