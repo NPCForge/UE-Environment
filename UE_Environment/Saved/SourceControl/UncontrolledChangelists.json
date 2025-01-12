@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/InputActions/IA_Move.uasset",
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/InputActions/IA_Look.uasset",
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/InputActions/IA_Jump.uasset",
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/IMC_Player.uasset",
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Levels/L_NPCForge.umap",
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Blueprints/BP_IA.uasset",
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Blueprints/Widgets/WBP_IA_Discution.uasset",
 				"C:/Users/brost/Documents/GitHub/NPCFORGE/UE_Environment/Content/Levels/L_Menu.umap",
 				"C:/Users/brost/Documents/GitHub/NPCFORGE/UE_Environment/Content/__ExternalActors__/Levels/ThirdPersonMap/9/PJ/UL3AD6AD828D5V7Z4E0QKW.uasset",
 				"C:/Users/brost/Documents/GitHub/NPCFORGE/UE_Environment/Content/__ExternalObjects__/Levels/ThirdPersonMap/B/LR/XB4CEXSOG9HF5LVOYBNELN.uasset",
@@ -121,10 +130,8 @@
 				"C:/Users/brost/Documents/GitHub/NPCFORGE/UE_Environment/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/6/D8/3MZ6M1DB94VN44C87D65WR.uasset",
 				"C:/Users/brost/Documents/GitHub/NPCFORGE/UE_Environment/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/VW/TY7TSUER9KKGHX2BMKSL0L.uasset",
 				"C:/Users/brost/Documents/GitHub/NPCFORGE/UE_Environment/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset",
-				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Blueprints/BP_Player.uasset",
 				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/IA_Move.uasset",
 				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/IA_Look.uasset",
@@ -132,11 +139,7 @@
 				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
 				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
 				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
-				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/IMC_Default.uasset",
-				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/InputActions/IA_Move.uasset",
-				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/InputActions/IA_Look.uasset",
-				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/InputActions/IA_Jump.uasset",
-				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/IMC_Player.uasset"
+				"C:/Users/hfont/Documents/Epitech/eip/Repos/UE-Environment/UE_Environment/Content/Inputs/IMC_Default.uasset"
 			]
 		}
 	]
